@@ -1,3 +1,3 @@
 # David-image.github.io
 
-<a href="Image_Piddubnyi_David.html">Open File</a>
+<a href="Image/Image_Piddubnyi_David.html" target="blank">Open File</a>
